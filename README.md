@@ -1,3 +1,6 @@
+THE ZIP FOLDER  CONTAINS ALL THE FILES MENTIONED HERE AND HAS BEEN PROVIDED SO THAT YOU CAN DOWNLOAD
+ALL FILES MENTIONED HERE AT ONCE
+
 # footprint-regulator-app
 We came up wiith an idea to keep in check the amount of resources a human uses using our app
 This is a carbon and water footprint regulator calculated for a period of over a month 
